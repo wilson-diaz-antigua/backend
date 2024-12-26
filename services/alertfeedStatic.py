@@ -10,7 +10,7 @@ import requests
 from dotenv import load_dotenv
 
 # from backend.route import server
-from backend.util.utils import convert_to_datetime, dateparsing
+from util.utils import convert_to_datetime, dateparsing
 
 from .database import db
 from .models import Alerts, Stop

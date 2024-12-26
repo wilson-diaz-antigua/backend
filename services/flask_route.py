@@ -15,8 +15,8 @@ from flask import jsonify
 from flask.views import MethodView
 from flask_smorest import Blueprint
 
-from backend.services.database import server
-from backend.services.models import Stop, StopSchema
+from services.database import server
+from services.models import Stop, StopSchema
 
 
 class APIConfig:
