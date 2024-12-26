@@ -59,4 +59,4 @@ class StopsCollection(MethodView):
 api.register_blueprint(stops)
 
 if __name__ == "__main__":
-    server.run(port=6543, debug=True)
+    server.run(host="0.0.0.0", port=6543, debug=True)
