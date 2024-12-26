@@ -30,5 +30,5 @@ supabase==2.6.0
 sutime==1.0.1
 uvicorn==0.29.0
 uvloop==0.19.0
-watchfiles==0.
+
 flask-marshmallow==1.2.1
