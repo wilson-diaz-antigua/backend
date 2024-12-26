@@ -38,7 +38,7 @@ server.config.from_object(APIConfig)
 api = Api(server)
 
 
-stops = Blueprint("stops", "api", url_prefix="/api", description="Operations on stops")
+stops = Blueprint("stops", "api", description="Operations on stops")
 
 
 @stops.route("/")
