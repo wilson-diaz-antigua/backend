@@ -41,6 +41,11 @@ api = Api(server)
 stops = Blueprint("stops", "api", url_prefix="/api", description="Operations on stops")
 
 
+@stops.route("/")
+def index():
+    return jsonify({"message": "Hello, World!"})
+
+
 @stops.route("/stops")
 class StopsCollection(MethodView):
 
@@ -59,4 +64,4 @@ class StopsCollection(MethodView):
 api.register_blueprint(stops)
 
 if __name__ == "__main__":
-    server.run(host="0.0.0.0", port=6543, debug=True)
+    server.run()
