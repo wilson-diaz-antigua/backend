@@ -14,4 +14,4 @@ RUN pip install -r requirements.txt
 COPY . .
 EXPOSE 6543
 
-CMD [ "python","-m","flask_route" ]
+CMD [ "python","services/flask_route.py" ]
