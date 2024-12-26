@@ -38,7 +38,7 @@ server.config.from_object(APIConfig)
 api = Api(server)
 
 
-stops = Blueprint("stops", "api", url_prefix="/api", description="Operations on stops")
+stops = Blueprint("stops", "api", description="Operations on stops")
 
 
 @stops.route("/")
@@ -64,4 +64,4 @@ class StopsCollection(MethodView):
 api.register_blueprint(stops)
 
 if __name__ == "__main__":
-    server.run(host="0.0.0.0", debug=True)
+    server.run(host="0.0.0.0", port=6543, debug=True)
