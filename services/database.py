@@ -9,7 +9,7 @@ from flask_migrate import Migrate
 from flask_sqlalchemy import SQLAlchemy
 from sqlmodel import SQLModel, create_engine
 
-env_path = Path(__file__).parent.parent / ".env.postgres"
+env_path = Path(__file__).parent / ".env.postgres"
 
 
 vals = dotenv_values(env_path)
