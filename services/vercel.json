@@ -1,14 +1,14 @@
 {
 	"builds": [
 		{
-			"src": "services/flask_route.py",
+			"src": "flask_route.py",
 			"use": "@vercel/python"
 		}
 	],
 	"routes": [
 		{
 			"src": "/(.*) ",
-			"dest": "services/flask_route.py"
+			"dest": "flask_route.py"
 		}
 	]
 }
