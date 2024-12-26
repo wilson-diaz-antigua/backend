@@ -1,0 +1,1704 @@
+INFO:2024-09-06 18:25:44,321: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:62212
+INFO:2024-09-06 18:25:44,321: [33mPress CTRL+C to quit[0m
+INFO:2024-09-06 18:25:44,322:  * Restarting with stat
+WARNING:2024-09-06 18:25:45,357:  * Debugger is active!
+INFO:2024-09-06 18:25:45,379:  * Debugger PIN: 620-396-479
+INFO:2024-09-06 18:26:52,020:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py', reloading
+INFO:2024-09-06 18:26:52,151:  * Restarting with stat
+WARNING:2024-09-06 18:26:53,451:  * Debugger is active!
+INFO:2024-09-06 18:26:53,469:  * Debugger PIN: 620-396-479
+INFO:2024-09-06 18:30:37,449: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5432
+ * Running on http://192.168.1.157:5432
+INFO:2024-09-06 18:30:37,450: [33mPress CTRL+C to quit[0m
+INFO:2024-09-06 18:30:37,451:  * Restarting with stat
+WARNING:2024-09-06 18:30:38,596:  * Debugger is active!
+INFO:2024-09-06 18:30:38,617:  * Debugger PIN: 620-396-479
+INFO:2024-09-06 18:30:54,747:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py', reloading
+INFO:2024-09-06 18:30:54,895:  * Restarting with stat
+WARNING:2024-09-06 18:30:56,235:  * Debugger is active!
+INFO:2024-09-06 18:30:56,252:  * Debugger PIN: 620-396-479
+INFO:2024-09-06 18:31:29,587:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py', reloading
+INFO:2024-09-06 18:31:29,724:  * Restarting with stat
+WARNING:2024-09-06 18:31:31,009:  * Debugger is active!
+INFO:2024-09-06 18:31:31,027:  * Debugger PIN: 620-396-479
+INFO:2024-09-06 18:31:50,206:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py', reloading
+INFO:2024-09-06 18:31:50,363:  * Restarting with stat
+WARNING:2024-09-06 18:31:51,577:  * Debugger is active!
+INFO:2024-09-06 18:31:51,598:  * Debugger PIN: 620-396-479
+INFO:2024-09-06 18:32:06,444: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6543
+INFO:2024-09-06 18:32:06,444: [33mPress CTRL+C to quit[0m
+INFO:2024-09-06 18:32:06,445:  * Restarting with stat
+WARNING:2024-09-06 18:32:07,559:  * Debugger is active!
+INFO:2024-09-06 18:32:07,578:  * Debugger PIN: 620-396-479
+INFO:2024-09-06 18:32:14,279: 127.0.0.1 - - [06/Sep/2024 18:32:14] "GET /docs HTTP/1.1" 200 -
+INFO:2024-09-06 18:32:14,472: 127.0.0.1 - - [06/Sep/2024 18:32:14] "GET /openapi.json HTTP/1.1" 200 -
+INFO:2024-09-06 18:32:18,698: 127.0.0.1 - - [06/Sep/2024 18:32:18] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-09-06 18:32:33,782:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py', reloading
+INFO:2024-09-06 18:32:33,932:  * Restarting with stat
+WARNING:2024-09-06 18:32:35,190:  * Debugger is active!
+INFO:2024-09-06 18:32:35,221:  * Debugger PIN: 620-396-479
+INFO:2024-09-06 18:33:01,528:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py', reloading
+INFO:2024-09-06 18:33:01,668:  * Restarting with stat
+WARNING:2024-09-06 18:33:02,977:  * Debugger is active!
+INFO:2024-09-06 18:33:02,996:  * Debugger PIN: 620-396-479
+INFO:2024-09-06 18:33:05,027:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py', reloading
+INFO:2024-09-06 18:33:05,178:  * Restarting with stat
+WARNING:2024-09-06 18:33:06,265:  * Debugger is active!
+INFO:2024-09-06 18:33:06,283:  * Debugger PIN: 620-396-479
+INFO:2024-09-15 14:39:09,577: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.157:6543
+INFO:2024-09-15 14:39:09,577: [33mPress CTRL+C to quit[0m
+INFO:2024-09-15 14:39:18,427: 127.0.0.1 - - [15/Sep/2024 14:39:18] "GET /docs HTTP/1.1" 200 -
+INFO:2024-09-15 14:39:18,672: 127.0.0.1 - - [15/Sep/2024 14:39:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2024-09-15 14:39:18,685: 127.0.0.1 - - [15/Sep/2024 14:39:18] "GET /openapi.json HTTP/1.1" 200 -
+ERROR:2024-09-15 14:39:21,865: Exception on /api/stops [GET]
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "db" to address: nodename nor servname provided, or not known
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 110, in view
+    return current_app.ensure_sync(self.dispatch_request)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 191, in dispatch_request
+    return current_app.ensure_sync(meth)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_smorest/response.py", line 89, in wrapper
+    func(*args, **kwargs)
+  File "/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py", line 66, in get
+    stops = session.exec(select(Stop)).all()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlmodel/orm/session.py", line 68, in exec
+    results = super().execute(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2306, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2181, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2050, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1144, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3280, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 148, in __init__
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2444, in _handle_dbapi_exception_noconnection
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+INFO:2024-09-15 14:39:21,881: 127.0.0.1 - - [15/Sep/2024 14:39:21] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+ERROR:2024-09-15 14:39:25,329: Exception on /api/stops [GET]
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "db" to address: nodename nor servname provided, or not known
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 110, in view
+    return current_app.ensure_sync(self.dispatch_request)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 191, in dispatch_request
+    return current_app.ensure_sync(meth)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_smorest/response.py", line 89, in wrapper
+    func(*args, **kwargs)
+  File "/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py", line 66, in get
+    stops = session.exec(select(Stop)).all()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlmodel/orm/session.py", line 68, in exec
+    results = super().execute(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2306, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2181, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2050, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1144, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3280, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 148, in __init__
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2444, in _handle_dbapi_exception_noconnection
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+INFO:2024-09-15 14:39:25,333: 127.0.0.1 - - [15/Sep/2024 14:39:25] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-09-15 14:46:04,634: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.157:6543
+INFO:2024-09-15 14:46:04,634: [33mPress CTRL+C to quit[0m
+ERROR:2024-09-15 14:46:16,078: Exception on /api/stops [GET]
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "db" to address: nodename nor servname provided, or not known
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 110, in view
+    return current_app.ensure_sync(self.dispatch_request)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 191, in dispatch_request
+    return current_app.ensure_sync(meth)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_smorest/response.py", line 89, in wrapper
+    func(*args, **kwargs)
+  File "/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py", line 66, in get
+    stops = session.exec(select(Stop)).all()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlmodel/orm/session.py", line 68, in exec
+    results = super().execute(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2306, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2181, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2050, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1144, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3280, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 148, in __init__
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2444, in _handle_dbapi_exception_noconnection
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+INFO:2024-09-15 14:46:16,089: 127.0.0.1 - - [15/Sep/2024 14:46:16] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+ERROR:2024-09-15 14:46:17,416: Exception on /api/stops [GET]
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "db" to address: nodename nor servname provided, or not known
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 110, in view
+    return current_app.ensure_sync(self.dispatch_request)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 191, in dispatch_request
+    return current_app.ensure_sync(meth)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_smorest/response.py", line 89, in wrapper
+    func(*args, **kwargs)
+  File "/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py", line 66, in get
+    stops = session.exec(select(Stop)).all()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlmodel/orm/session.py", line 68, in exec
+    results = super().execute(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2306, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2181, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2050, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1144, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3280, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 148, in __init__
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2444, in _handle_dbapi_exception_noconnection
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+INFO:2024-09-15 14:46:17,419: 127.0.0.1 - - [15/Sep/2024 14:46:17] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-09-15 14:49:16,777: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.157:6543
+INFO:2024-09-15 14:49:16,778: [33mPress CTRL+C to quit[0m
+ERROR:2024-09-15 14:49:32,657: Exception on /api/stops [GET]
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "db" to address: nodename nor servname provided, or not known
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 110, in view
+    return current_app.ensure_sync(self.dispatch_request)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 191, in dispatch_request
+    return current_app.ensure_sync(meth)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_smorest/response.py", line 89, in wrapper
+    func(*args, **kwargs)
+  File "/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py", line 66, in get
+    stops = session.exec(select(Stop)).all()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlmodel/orm/session.py", line 68, in exec
+    results = super().execute(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2306, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2181, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2050, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1144, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3280, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 148, in __init__
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2444, in _handle_dbapi_exception_noconnection
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+INFO:2024-09-15 14:49:32,674: 127.0.0.1 - - [15/Sep/2024 14:49:32] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+ERROR:2024-09-15 14:49:34,145: Exception on /api/stops [GET]
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "db" to address: nodename nor servname provided, or not known
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 110, in view
+    return current_app.ensure_sync(self.dispatch_request)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask/views.py", line 191, in dispatch_request
+    return current_app.ensure_sync(meth)(**kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/flask_smorest/response.py", line 89, in wrapper
+    func(*args, **kwargs)
+  File "/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py", line 66, in get
+    stops = session.exec(select(Stop)).all()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlmodel/orm/session.py", line 68, in exec
+    results = super().execute(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2306, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2181, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2050, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1144, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3280, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 148, in __init__
+    Connection._handle_dbapi_exception_noconnection(
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 2444, in _handle_dbapi_exception_noconnection
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3304, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 617, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wilson/opt/anaconda3/envs/MTAAlertDisplay/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) could not translate host name "db" to address: nodename nor servname provided, or not known
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+INFO:2024-09-15 14:49:34,151: 127.0.0.1 - - [15/Sep/2024 14:49:34] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-09-15 14:50:52,503: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.157:6543
+INFO:2024-09-15 14:50:52,503: [33mPress CTRL+C to quit[0m
+INFO:2024-09-15 14:50:52,504:  * Restarting with stat
+WARNING:2024-09-15 14:50:53,563:  * Debugger is active!
+INFO:2024-09-15 14:50:53,583:  * Debugger PIN: 656-460-252
+INFO:2024-09-15 14:51:07,687:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py', reloading
+INFO:2024-09-15 14:51:07,821:  * Restarting with stat
+WARNING:2024-09-15 14:51:08,991:  * Debugger is active!
+INFO:2024-09-15 14:51:09,007:  * Debugger PIN: 656-460-252
+INFO:2024-09-15 14:51:14,972: 127.0.0.1 - - [15/Sep/2024 14:51:14] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-09-15 14:55:50,848: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.157:6543
+INFO:2024-09-15 14:55:50,848: [33mPress CTRL+C to quit[0m
+INFO:2024-09-15 14:55:50,849:  * Restarting with stat
+WARNING:2024-09-15 14:55:51,932:  * Debugger is active!
+INFO:2024-09-15 14:55:51,950:  * Debugger PIN: 656-460-252
+INFO:2024-09-15 14:56:06,752: 127.0.0.1 - - [15/Sep/2024 14:56:06] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-09-15 16:24:57,615: 127.0.0.1 - - [15/Sep/2024 16:24:57] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+DEBUG:2024-09-15 20:54:41,448: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-09-15 20:54:41,612: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 733085
+INFO:2024-09-15 20:56:40,917: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.157:6543
+INFO:2024-09-15 20:56:40,917: [33mPress CTRL+C to quit[0m
+INFO:2024-09-15 20:56:40,918:  * Restarting with stat
+WARNING:2024-09-15 20:56:41,956:  * Debugger is active!
+INFO:2024-09-15 20:56:41,975:  * Debugger PIN: 656-460-252
+DEBUG:2024-09-15 21:35:00,611: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-09-15 21:35:00,799: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 734412
+DEBUG:2024-09-16 00:14:51,559: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-09-16 00:14:51,748: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 698347
+INFO:2024-09-17 17:04:06,737: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.157:6543
+INFO:2024-09-17 17:04:06,737: [33mPress CTRL+C to quit[0m
+INFO:2024-09-17 17:04:06,738:  * Restarting with stat
+WARNING:2024-09-17 17:04:07,782:  * Debugger is active!
+INFO:2024-09-17 17:04:07,803:  * Debugger PIN: 656-460-252
+INFO:2024-09-17 17:04:17,590: 127.0.0.1 - - [17/Sep/2024 17:04:17] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-09-17 17:04:17,629: 127.0.0.1 - - [17/Sep/2024 17:04:17] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:17,630: 127.0.0.1 - - [17/Sep/2024 17:04:17] "GET /api/stops?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:2024-09-17 17:04:17,647: 127.0.0.1 - - [17/Sep/2024 17:04:17] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:18,436: 127.0.0.1 - - [17/Sep/2024 17:04:18] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-09-17 17:04:18,456: 127.0.0.1 - - [17/Sep/2024 17:04:18] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:18,457: 127.0.0.1 - - [17/Sep/2024 17:04:18] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:18,469: 127.0.0.1 - - [17/Sep/2024 17:04:18] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:39,106: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.157:6543
+INFO:2024-09-17 17:04:39,106: [33mPress CTRL+C to quit[0m
+INFO:2024-09-17 17:04:39,107:  * Restarting with stat
+WARNING:2024-09-17 17:04:40,157:  * Debugger is active!
+INFO:2024-09-17 17:04:40,175:  * Debugger PIN: 656-460-252
+INFO:2024-09-17 17:04:41,664: 127.0.0.1 - - [17/Sep/2024 17:04:41] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-09-17 17:04:41,693: 127.0.0.1 - - [17/Sep/2024 17:04:41] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:41,696: 127.0.0.1 - - [17/Sep/2024 17:04:41] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:41,711: 127.0.0.1 - - [17/Sep/2024 17:04:41] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:42,750: 127.0.0.1 - - [17/Sep/2024 17:04:42] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-09-17 17:04:42,769: 127.0.0.1 - - [17/Sep/2024 17:04:42] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:42,769: 127.0.0.1 - - [17/Sep/2024 17:04:42] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:42,786: 127.0.0.1 - - [17/Sep/2024 17:04:42] "[36mGET /api/stops?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:2024-09-17 17:04:58,456: 127.0.0.1 - - [17/Sep/2024 17:04:58] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:10:07,116: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.220:6543
+INFO:2024-12-14 17:10:07,116: [33mPress CTRL+C to quit[0m
+INFO:2024-12-14 17:10:07,117:  * Restarting with stat
+WARNING:2024-12-14 17:10:07,940:  * Debugger is active!
+INFO:2024-12-14 17:10:07,966:  * Debugger PIN: 348-606-090
+INFO:2024-12-14 17:11:01,792: 127.0.0.1 - - [14/Dec/2024 17:11:01] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-12-14 17:11:01,819: 127.0.0.1 - - [14/Dec/2024 17:11:01] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-12-14 17:11:02,565: 127.0.0.1 - - [14/Dec/2024 17:11:02] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-12-14 17:11:02,587: 127.0.0.1 - - [14/Dec/2024 17:11:02] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-12-14 17:11:18,796: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.220:6543
+INFO:2024-12-14 17:11:18,796: [33mPress CTRL+C to quit[0m
+INFO:2024-12-14 17:11:18,797:  * Restarting with stat
+WARNING:2024-12-14 17:11:19,662:  * Debugger is active!
+INFO:2024-12-14 17:11:19,686:  * Debugger PIN: 348-606-090
+INFO:2024-12-14 17:11:22,629: 127.0.0.1 - - [14/Dec/2024 17:11:22] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-12-14 17:11:22,653: 127.0.0.1 - - [14/Dec/2024 17:11:22] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-12-14 17:11:23,362: 127.0.0.1 - - [14/Dec/2024 17:11:23] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-12-14 17:11:23,381: 127.0.0.1 - - [14/Dec/2024 17:11:23] "[35m[1mGET /api/stops HTTP/1.1[0m" 500 -
+INFO:2024-12-14 17:12:31,744: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.220:6543
+INFO:2024-12-14 17:12:31,745: [33mPress CTRL+C to quit[0m
+INFO:2024-12-14 17:12:31,745:  * Restarting with stat
+WARNING:2024-12-14 17:12:32,573:  * Debugger is active!
+INFO:2024-12-14 17:12:32,597:  * Debugger PIN: 348-606-090
+INFO:2024-12-14 17:12:41,991: 127.0.0.1 - - [14/Dec/2024 17:12:41] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:12:42,497: 127.0.0.1 - - [14/Dec/2024 17:12:42] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:40:37,284: 127.0.0.1 - - [14/Dec/2024 17:40:37] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:40:37,711: 127.0.0.1 - - [14/Dec/2024 17:40:37] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:40:40,743: 127.0.0.1 - - [14/Dec/2024 17:40:40] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:40:41,083: 127.0.0.1 - - [14/Dec/2024 17:40:41] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:40:41,508: 127.0.0.1 - - [14/Dec/2024 17:40:41] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:40:42,445: 127.0.0.1 - - [14/Dec/2024 17:40:42] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:40:42,934: 127.0.0.1 - - [14/Dec/2024 17:40:42] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:41:58,183: 127.0.0.1 - - [14/Dec/2024 17:41:58] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:41:58,606: 127.0.0.1 - - [14/Dec/2024 17:41:58] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:42:55,283: 127.0.0.1 - - [14/Dec/2024 17:42:55] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:42:55,776: 127.0.0.1 - - [14/Dec/2024 17:42:55] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:44:00,483: 127.0.0.1 - - [14/Dec/2024 17:44:00] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:44:00,999: 127.0.0.1 - - [14/Dec/2024 17:44:00] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:45:21,168: 127.0.0.1 - - [14/Dec/2024 17:45:21] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:45:21,624: 127.0.0.1 - - [14/Dec/2024 17:45:21] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:45:38,254: 127.0.0.1 - - [14/Dec/2024 17:45:38] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:45:38,710: 127.0.0.1 - - [14/Dec/2024 17:45:38] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:47:08,032: 127.0.0.1 - - [14/Dec/2024 17:47:08] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:47:08,472: 127.0.0.1 - - [14/Dec/2024 17:47:08] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:47:27,740: 127.0.0.1 - - [14/Dec/2024 17:47:27] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:47:28,138: 127.0.0.1 - - [14/Dec/2024 17:47:28] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:48:31,932: 127.0.0.1 - - [14/Dec/2024 17:48:31] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:48:32,461: 127.0.0.1 - - [14/Dec/2024 17:48:32] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:49:48,715: 127.0.0.1 - - [14/Dec/2024 17:49:48] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 17:49:49,200: 127.0.0.1 - - [14/Dec/2024 17:49:49] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 21:31:39,431: 127.0.0.1 - - [14/Dec/2024 21:31:39] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 21:31:39,836: 127.0.0.1 - - [14/Dec/2024 21:31:39] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-14 21:54:29,778:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/database.py', reloading
+INFO:2024-12-14 21:54:29,915:  * Restarting with stat
+DEBUG:2024-12-14 21:59:01,588: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-14 21:59:01,711: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 84370
+INFO:2024-12-15 08:54:18,753: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.220:6543
+INFO:2024-12-15 08:54:18,754: [33mPress CTRL+C to quit[0m
+INFO:2024-12-15 08:54:18,755:  * Restarting with stat
+WARNING:2024-12-15 08:54:19,600:  * Debugger is active!
+INFO:2024-12-15 08:54:19,625:  * Debugger PIN: 348-606-090
+INFO:2024-12-15 08:54:24,427: 127.0.0.1 - - [15/Dec/2024 08:54:24] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 08:54:24,851: 127.0.0.1 - - [15/Dec/2024 08:54:24] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 13:07:59,500:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/database.py', reloading
+INFO:2024-12-15 13:07:59,648:  * Restarting with stat
+INFO:2024-12-15 13:54:45,741: Flask App startup
+INFO:2024-12-15 13:56:21,476: Flask App startup
+INFO:2024-12-15 13:56:57,635: Flask App startup
+INFO:2024-12-15 14:18:02,211: Flask App startup
+ERROR:2024-12-15 14:18:02,212: Error: Directory migrations already exists and is not empty
+INFO:2024-12-15 14:18:09,456: Flask App startup
+INFO:2024-12-15 14:18:40,413: Flask App startup
+ERROR:2024-12-15 14:18:40,414: Error: Directory migrations already exists and is not empty
+INFO:2024-12-15 14:18:52,974: Flask App startup
+ERROR:2024-12-15 14:18:52,975: Error: Path doesn't exist: '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/migrations'.  Please use the 'init' command to create a new scripts folder.
+INFO:2024-12-15 14:19:05,284: Flask App startup
+ERROR:2024-12-15 14:19:05,285: Error: Path doesn't exist: '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/migrations'.  Please use the 'init' command to create a new scripts folder.
+INFO:2024-12-15 14:20:08,553: Flask App startup
+INFO:2024-12-15 14:20:21,916: Flask App startup
+INFO:2024-12-15 14:20:37,027: Flask App startup
+INFO:2024-12-15 14:20:44,883: Flask App startup
+DEBUG:2024-12-15 14:43:14,645: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-15 14:43:14,832: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 83376
+DEBUG:2024-12-15 14:44:24,363: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-15 14:44:24,625: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 83376
+DEBUG:2024-12-15 15:06:39,826: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-15 15:06:40,030: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 83262
+DEBUG:2024-12-15 15:16:30,884: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-15 15:16:31,070: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 83402
+DEBUG:2024-12-15 15:16:56,449: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-15 15:16:56,596: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 83402
+INFO:2024-12-15 15:16:59,361: Flask App startup
+DEBUG:2024-12-15 15:16:59,364: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-15 15:16:59,510: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 83402
+DEBUG:2024-12-15 15:18:59,470: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-15 15:18:59,608: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 83401
+INFO:2024-12-15 17:35:52,362: Flask App startup
+INFO:2024-12-15 17:35:52,441: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://100.64.250.250:6543
+INFO:2024-12-15 17:35:52,441: [33mPress CTRL+C to quit[0m
+INFO:2024-12-15 17:35:52,447:  * Restarting with stat
+INFO:2024-12-15 17:35:54,819: Flask App startup
+WARNING:2024-12-15 17:35:54,870:  * Debugger is active!
+INFO:2024-12-15 17:35:54,924:  * Debugger PIN: 348-606-090
+INFO:2024-12-15 17:37:00,575:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/run.py', reloading
+INFO:2024-12-15 17:37:00,808:  * Restarting with stat
+INFO:2024-12-15 17:37:04,613: Flask App startup
+WARNING:2024-12-15 17:37:04,694:  * Debugger is active!
+INFO:2024-12-15 17:37:04,758:  * Debugger PIN: 348-606-090
+INFO:2024-12-15 17:37:09,761: Flask App startup
+INFO:2024-12-15 17:37:48,799: Flask App startup
+INFO:2024-12-15 17:38:18,830: Flask App startup
+INFO:2024-12-15 17:45:14,158: Flask App startup
+INFO:2024-12-15 17:46:16,764: Flask App startup
+INFO:2024-12-15 17:46:25,687: Flask App startup
+INFO:2024-12-15 17:46:25,731: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5008
+ * Running on http://100.64.250.250:5008
+INFO:2024-12-15 17:46:25,731: [33mPress CTRL+C to quit[0m
+INFO:2024-12-15 17:46:25,735:  * Restarting with stat
+INFO:2024-12-15 17:46:26,996: Flask App startup
+WARNING:2024-12-15 17:46:27,032:  * Debugger is active!
+INFO:2024-12-15 17:46:27,064:  * Debugger PIN: 348-606-090
+INFO:2024-12-15 17:46:45,215: 127.0.0.1 - - [15/Dec/2024 17:46:45] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 17:46:45,457: 127.0.0.1 - - [15/Dec/2024 17:46:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2024-12-15 17:47:17,537: 127.0.0.1 - - [15/Dec/2024 17:47:17] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 17:47:18,041: 127.0.0.1 - - [15/Dec/2024 17:47:18] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 17:47:18,848: 127.0.0.1 - - [15/Dec/2024 17:47:18] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 17:47:19,296: 127.0.0.1 - - [15/Dec/2024 17:47:19] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 17:47:19,733: 127.0.0.1 - - [15/Dec/2024 17:47:19] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 17:47:32,066: 127.0.0.1 - - [15/Dec/2024 17:47:32] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 17:48:12,813: 127.0.0.1 - - [15/Dec/2024 17:48:12] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-15 17:48:12,816: 127.0.0.1 - - [15/Dec/2024 17:48:12] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-15 17:48:31,455: 127.0.0.1 - - [15/Dec/2024 17:48:31] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 17:48:33,907: 127.0.0.1 - - [15/Dec/2024 17:48:33] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-15 17:48:47,529: 127.0.0.1 - - [15/Dec/2024 17:48:47] "[33mGET /api/docs HTTP/1.1[0m" 404 -
+INFO:2024-12-15 17:48:49,986: 127.0.0.1 - - [15/Dec/2024 17:48:49] "GET /docs HTTP/1.1" 200 -
+INFO:2024-12-15 17:48:50,630: 127.0.0.1 - - [15/Dec/2024 17:48:50] "GET /openapi.json HTTP/1.1" 200 -
+INFO:2024-12-15 17:48:56,111: 127.0.0.1 - - [15/Dec/2024 17:48:56] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-15 17:49:33,269:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/alertfeedStatic.py', reloading
+DEBUG:2024-12-17 22:57:59,421: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-17 22:57:59,547: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 79103
+DEBUG:2024-12-17 23:02:36,840: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-17 23:02:36,937: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 78952
+DEBUG:2024-12-17 23:07:03,375: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-17 23:07:03,479: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 78953
+DEBUG:2024-12-18 11:38:27,878: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 11:38:27,980: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77760
+DEBUG:2024-12-18 11:40:21,643: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 11:40:21,742: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77760
+DEBUG:2024-12-18 11:41:13,028: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 11:41:13,124: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77760
+DEBUG:2024-12-18 11:43:23,067: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 11:43:23,185: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 78015
+DEBUG:2024-12-18 12:08:23,692: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 12:08:23,806: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 78134
+DEBUG:2024-12-18 12:08:39,351: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 12:08:39,444: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 78134
+DEBUG:2024-12-18 12:10:19,216: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 12:10:19,338: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 78134
+DEBUG:2024-12-18 12:11:02,524: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 12:11:02,624: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77886
+DEBUG:2024-12-18 12:14:05,788: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 12:14:05,872: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77885
+DEBUG:2024-12-18 15:35:10,383: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 15:35:10,515: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76124
+DEBUG:2024-12-18 15:35:38,923: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 15:35:39,020: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76124
+DEBUG:2024-12-18 16:03:29,773: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 16:03:29,884: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76486
+DEBUG:2024-12-18 16:06:34,858: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 16:06:34,979: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76980
+DEBUG:2024-12-18 16:11:33,787: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 16:11:33,894: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76980
+DEBUG:2024-12-18 16:12:40,982: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 16:12:41,089: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77019
+DEBUG:2024-12-18 16:21:22,941: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 16:21:23,044: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77064
+DEBUG:2024-12-18 16:38:33,539: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 16:38:33,636: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77230
+DEBUG:2024-12-18 16:40:19,907: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 16:40:20,025: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77121
+DEBUG:2024-12-18 17:15:51,001: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 17:15:51,129: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77315
+DEBUG:2024-12-18 17:17:46,740: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 17:17:46,835: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 77315
+DEBUG:2024-12-18 18:29:47,727: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:29:47,869: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76474
+DEBUG:2024-12-18 18:33:23,191: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:33:23,315: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76569
+DEBUG:2024-12-18 18:33:39,114: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:33:39,225: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76569
+DEBUG:2024-12-18 18:34:07,713: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:34:07,829: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76569
+DEBUG:2024-12-18 18:34:34,116: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:34:34,224: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76569
+DEBUG:2024-12-18 18:36:15,376: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:36:15,477: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76570
+DEBUG:2024-12-18 18:38:24,167: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:38:24,259: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76522
+DEBUG:2024-12-18 18:52:26,440: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:52:26,558: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76392
+DEBUG:2024-12-18 18:53:09,392: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:53:09,497: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76392
+DEBUG:2024-12-18 18:55:14,984: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:55:15,072: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76392
+DEBUG:2024-12-18 18:55:18,384: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 18:55:18,495: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76392
+DEBUG:2024-12-18 19:20:22,068: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:20:22,169: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76405
+DEBUG:2024-12-18 19:21:09,415: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:21:09,524: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76405
+DEBUG:2024-12-18 19:29:20,468: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:29:20,578: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76406
+DEBUG:2024-12-18 19:29:52,641: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:29:52,744: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76406
+DEBUG:2024-12-18 19:31:31,212: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:31:31,300: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76406
+DEBUG:2024-12-18 19:32:46,713: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:32:46,816: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76406
+DEBUG:2024-12-18 19:36:38,040: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:36:38,147: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76406
+DEBUG:2024-12-18 19:37:01,564: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:37:01,670: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76406
+DEBUG:2024-12-18 19:41:33,670: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:41:33,782: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76406
+DEBUG:2024-12-18 19:42:48,878: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:42:48,987: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76291
+DEBUG:2024-12-18 19:44:44,309: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:44:44,398: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76291
+DEBUG:2024-12-18 19:48:27,257: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:48:27,379: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76377
+DEBUG:2024-12-18 19:49:44,894: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:49:44,994: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:51:05,580: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:51:05,661: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:51:22,888: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:51:22,987: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:51:54,997: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:51:55,106: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:52:13,168: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:52:13,275: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:52:55,792: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:52:55,881: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:53:14,711: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:53:14,859: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:53:21,027: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:53:21,144: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:53:35,601: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:53:35,716: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:54:02,960: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:54:03,085: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:54:12,624: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:54:12,728: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76463
+DEBUG:2024-12-18 19:56:42,477: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:56:42,564: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76736
+DEBUG:2024-12-18 19:57:51,391: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:57:51,518: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76734
+DEBUG:2024-12-18 19:58:07,069: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:58:07,170: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76734
+DEBUG:2024-12-18 19:58:15,888: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:58:16,015: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76734
+DEBUG:2024-12-18 19:59:45,800: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 19:59:45,904: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76734
+DEBUG:2024-12-18 20:01:10,050: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:01:10,152: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76734
+DEBUG:2024-12-18 20:01:46,848: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:01:46,960: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76734
+DEBUG:2024-12-18 20:10:34,436: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:10:34,541: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76780
+DEBUG:2024-12-18 20:17:11,002: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:17:11,110: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76717
+DEBUG:2024-12-18 20:17:24,204: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:17:24,298: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76717
+DEBUG:2024-12-18 20:23:35,160: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:23:35,279: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76634
+DEBUG:2024-12-18 20:26:41,076: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:26:41,187: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76450
+DEBUG:2024-12-18 20:28:01,469: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:28:01,588: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76450
+DEBUG:2024-12-18 20:28:14,961: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:28:15,057: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76450
+DEBUG:2024-12-18 20:48:47,856: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:48:47,946: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76273
+DEBUG:2024-12-18 20:57:01,942: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 20:57:02,048: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76273
+DEBUG:2024-12-18 21:06:18,872: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 21:06:18,994: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76467
+DEBUG:2024-12-18 21:08:08,116: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 21:08:08,218: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76467
+INFO:2024-12-18 22:54:29,312: Flask App startup
+DEBUG:2024-12-18 23:06:23,749: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:06:23,885: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76423
+DEBUG:2024-12-18 23:07:58,996: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:07:59,139: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76423
+INFO:2024-12-18 23:08:57,194: Flask App startup
+ERROR:2024-12-18 23:08:57,195: Error: Directory migrations already exists and is not empty
+DEBUG:2024-12-18 23:15:19,297: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:15:19,424: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76408
+INFO:2024-12-18 23:15:20,953: Flask App startup
+DEBUG:2024-12-18 23:15:20,956: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:15:21,053: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76408
+DEBUG:2024-12-18 23:15:49,632: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:15:49,731: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76408
+INFO:2024-12-18 23:15:51,038: Flask App startup
+DEBUG:2024-12-18 23:17:04,751: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:17:04,907: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76406
+INFO:2024-12-18 23:17:06,141: Flask App startup
+DEBUG:2024-12-18 23:21:41,553: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:21:41,646: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76408
+DEBUG:2024-12-18 23:22:44,247: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:22:44,355: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76411
+INFO:2024-12-18 23:22:45,693: Flask App startup
+DEBUG:2024-12-18 23:26:02,672: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:26:02,777: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76411
+DEBUG:2024-12-18 23:26:24,123: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:26:24,241: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76411
+INFO:2024-12-18 23:26:25,781: Flask App startup
+DEBUG:2024-12-18 23:27:20,018: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:27:20,119: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76411
+INFO:2024-12-18 23:27:21,623: Flask App startup
+DEBUG:2024-12-18 23:27:25,167: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:27:25,261: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76411
+INFO:2024-12-18 23:27:26,473: Flask App startup
+DEBUG:2024-12-18 23:32:46,856: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:32:46,973: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76286
+INFO:2024-12-18 23:32:48,402: Flask App startup
+DEBUG:2024-12-18 23:33:03,601: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:33:03,704: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76286
+DEBUG:2024-12-18 23:33:15,533: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:33:15,635: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76286
+DEBUG:2024-12-18 23:33:53,017: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:33:53,124: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76286
+DEBUG:2024-12-18 23:34:08,634: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:34:08,724: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76286
+DEBUG:2024-12-18 23:36:13,726: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:36:13,825: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76288
+DEBUG:2024-12-18 23:36:32,240: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:36:32,353: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76288
+INFO:2024-12-18 23:36:33,931: Flask App startup
+DEBUG:2024-12-18 23:39:57,603: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:39:57,723: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76288
+INFO:2024-12-18 23:39:59,319: Flask App startup
+DEBUG:2024-12-18 23:42:31,242: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:42:31,342: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76288
+INFO:2024-12-18 23:42:32,776: Flask App startup
+DEBUG:2024-12-18 23:45:12,714: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:45:12,802: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76287
+INFO:2024-12-18 23:45:14,159: Flask App startup
+DEBUG:2024-12-18 23:47:43,169: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:47:43,285: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76287
+DEBUG:2024-12-18 23:48:21,268: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:48:21,369: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76287
+INFO:2024-12-18 23:48:22,740: Flask App startup
+DEBUG:2024-12-18 23:49:12,427: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:49:12,528: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76287
+INFO:2024-12-18 23:49:13,789: Flask App startup
+DEBUG:2024-12-18 23:49:31,034: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:49:31,143: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76170
+INFO:2024-12-18 23:49:32,448: Flask App startup
+INFO:2024-12-18 23:49:32,820: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:2024-12-18 23:49:32,820: [33mPress CTRL+C to quit[0m
+INFO:2024-12-18 23:49:32,822:  * Restarting with stat
+DEBUG:2024-12-18 23:49:33,909: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:49:34,022: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76170
+INFO:2024-12-18 23:49:35,312: Flask App startup
+WARNING:2024-12-18 23:49:35,373:  * Debugger is active!
+INFO:2024-12-18 23:49:35,555:  * Debugger PIN: 348-606-090
+INFO:2024-12-18 23:51:40,636:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/flask_route.py', reloading
+INFO:2024-12-18 23:51:40,870:  * Restarting with stat
+DEBUG:2024-12-18 23:51:42,361: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:51:42,470: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76170
+INFO:2024-12-18 23:51:44,105: Flask App startup
+WARNING:2024-12-18 23:51:44,171:  * Debugger is active!
+INFO:2024-12-18 23:51:44,194:  * Debugger PIN: 348-606-090
+DEBUG:2024-12-18 23:51:48,132: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:51:48,236: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76170
+INFO:2024-12-18 23:51:49,554: Flask App startup
+INFO:2024-12-18 23:51:49,638: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5008
+INFO:2024-12-18 23:51:49,639: [33mPress CTRL+C to quit[0m
+INFO:2024-12-18 23:51:49,640:  * Restarting with stat
+DEBUG:2024-12-18 23:51:50,720: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:51:50,836: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76170
+INFO:2024-12-18 23:51:52,401: Flask App startup
+WARNING:2024-12-18 23:51:52,464:  * Debugger is active!
+INFO:2024-12-18 23:51:52,490:  * Debugger PIN: 348-606-090
+INFO:2024-12-18 23:51:53,656: 127.0.0.1 - - [18/Dec/2024 23:51:53] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:51:53,658: 127.0.0.1 - - [18/Dec/2024 23:51:53] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:00,111: 127.0.0.1 - - [18/Dec/2024 23:52:00] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:00,113: 127.0.0.1 - - [18/Dec/2024 23:52:00] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:01,061: 127.0.0.1 - - [18/Dec/2024 23:52:01] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:01,067: 127.0.0.1 - - [18/Dec/2024 23:52:01] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:23,776:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/flask_route.py', reloading
+INFO:2024-12-18 23:52:23,977:  * Restarting with stat
+DEBUG:2024-12-18 23:52:25,458: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:52:25,545: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76170
+INFO:2024-12-18 23:52:27,321: Flask App startup
+WARNING:2024-12-18 23:52:27,391:  * Debugger is active!
+INFO:2024-12-18 23:52:27,422:  * Debugger PIN: 348-606-090
+INFO:2024-12-18 23:52:27,454: 127.0.0.1 - - [18/Dec/2024 23:52:27] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:27,455: 127.0.0.1 - - [18/Dec/2024 23:52:27] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:27,457: 127.0.0.1 - - [18/Dec/2024 23:52:27] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:46,713: 127.0.0.1 - - [18/Dec/2024 23:52:46] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:49,918: 127.0.0.1 - - [18/Dec/2024 23:52:49] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:57,837: 127.0.0.1 - - [18/Dec/2024 23:52:57] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:52:58,615: 127.0.0.1 - - [18/Dec/2024 23:52:58] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:53:00,793: 127.0.0.1 - - [18/Dec/2024 23:53:00] "[33mGET /stops HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:53:02,565: 127.0.0.1 - - [18/Dec/2024 23:53:02] "[33mGET /stops HTTP/1.1[0m" 404 -
+INFO:2024-12-18 23:53:48,170:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/flask_route.py', reloading
+INFO:2024-12-18 23:53:48,333:  * Restarting with stat
+DEBUG:2024-12-18 23:53:49,721: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:53:49,817: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76170
+DEBUG:2024-12-18 23:54:07,551: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:54:07,648: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76170
+INFO:2024-12-18 23:54:09,307: Flask App startup
+DEBUG:2024-12-18 23:55:43,590: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:55:43,691: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76254
+INFO:2024-12-18 23:55:45,151: Flask App startup
+DEBUG:2024-12-18 23:55:48,272: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:55:48,376: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76254
+INFO:2024-12-18 23:55:49,657: Flask App startup
+DEBUG:2024-12-18 23:57:53,611: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:57:53,746: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76254
+INFO:2024-12-18 23:57:55,197: Flask App startup
+DEBUG:2024-12-18 23:58:19,372: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:58:19,481: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76254
+DEBUG:2024-12-18 23:59:15,011: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-18 23:59:15,101: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76254
+DEBUG:2024-12-19 00:00:23,396: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 00:00:23,506: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76254
+DEBUG:2024-12-19 00:00:53,382: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 00:00:53,487: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76254
+DEBUG:2024-12-19 00:01:20,122: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 00:01:20,214: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76254
+DEBUG:2024-12-19 00:03:44,943: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 00:03:45,041: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76250
+DEBUG:2024-12-19 00:04:09,009: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 00:04:09,116: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76250
+INFO:2024-12-19 00:04:10,630: Flask App startup
+DEBUG:2024-12-19 00:50:06,581: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 00:50:06,685: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 76174
+INFO:2024-12-19 00:50:07,937: Flask App startup
+DEBUG:2024-12-19 18:09:36,260: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:09:36,365: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+DEBUG:2024-12-19 18:09:42,279: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:09:42,379: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+DEBUG:2024-12-19 18:09:43,907: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:09:44,001: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+INFO:2024-12-19 18:09:45,805: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5008
+INFO:2024-12-19 18:09:45,805: [33mPress CTRL+C to quit[0m
+INFO:2024-12-19 18:09:45,807:  * Restarting with stat
+DEBUG:2024-12-19 18:09:46,894: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:09:46,988: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+DEBUG:2024-12-19 18:09:48,660: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:09:48,772: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+WARNING:2024-12-19 18:09:50,318:  * Debugger is active!
+INFO:2024-12-19 18:09:50,346:  * Debugger PIN: 348-606-090
+INFO:2024-12-19 18:09:57,350: 127.0.0.1 - - [19/Dec/2024 18:09:57] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:09:57,354: 127.0.0.1 - - [19/Dec/2024 18:09:57] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:09:58,365: 127.0.0.1 - - [19/Dec/2024 18:09:58] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:09:58,367: 127.0.0.1 - - [19/Dec/2024 18:09:58] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:09:59,168: 127.0.0.1 - - [19/Dec/2024 18:09:59] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:09:59,170: 127.0.0.1 - - [19/Dec/2024 18:09:59] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:10:03,430: 127.0.0.1 - - [19/Dec/2024 18:10:03] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:10:03,432: 127.0.0.1 - - [19/Dec/2024 18:10:03] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:10:16,740: 127.0.0.1 - - [19/Dec/2024 18:10:16] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:10:24,020: 127.0.0.1 - - [19/Dec/2024 18:10:24] "[33mGET /stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:12:00,906: 127.0.0.1 - - [19/Dec/2024 18:12:00] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:12:02,221: 127.0.0.1 - - [19/Dec/2024 18:12:02] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:12:20,683:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/flask_route.py', reloading
+INFO:2024-12-19 18:12:20,885:  * Restarting with stat
+DEBUG:2024-12-19 18:12:22,466: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:12:22,569: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+DEBUG:2024-12-19 18:12:24,433: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:12:24,525: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+WARNING:2024-12-19 18:12:26,045:  * Debugger is active!
+INFO:2024-12-19 18:12:26,071:  * Debugger PIN: 348-606-090
+DEBUG:2024-12-19 18:13:23,901: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:13:24,026: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+INFO:2024-12-19 18:13:25,370: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:2024-12-19 18:13:25,370: [33mPress CTRL+C to quit[0m
+INFO:2024-12-19 18:13:40,016:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/run.py', reloading
+INFO:2024-12-19 18:13:40,233:  * Restarting with stat
+DEBUG:2024-12-19 18:13:41,777: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:13:41,892: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+DEBUG:2024-12-19 18:13:43,483: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:13:43,597: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87498
+WARNING:2024-12-19 18:13:45,053:  * Debugger is active!
+INFO:2024-12-19 18:13:45,104:  * Debugger PIN: 348-606-090
+INFO:2024-12-19 18:13:48,697: 127.0.0.1 - - [19/Dec/2024 18:13:48] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:13:49,195: 127.0.0.1 - - [19/Dec/2024 18:13:49] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:13:51,522: 127.0.0.1 - - [19/Dec/2024 18:13:51] "[33mGET /stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:13:54,114: 127.0.0.1 - - [19/Dec/2024 18:13:54] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:14:09,225: 127.0.0.1 - - [19/Dec/2024 18:14:09] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:14:09,227: 127.0.0.1 - - [19/Dec/2024 18:14:09] "[33mGET /api/alerts HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:15:13,323:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/run.py', reloading
+INFO:2024-12-19 18:15:13,529:  * Restarting with stat
+DEBUG:2024-12-19 18:15:15,071: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:15:15,174: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+DEBUG:2024-12-19 18:15:16,677: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:15:16,779: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+DEBUG:2024-12-19 18:15:18,803: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:15:18,900: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+INFO:2024-12-19 18:15:20,258: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:2024-12-19 18:15:20,259: [33mPress CTRL+C to quit[0m
+DEBUG:2024-12-19 18:17:02,424: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:17:02,523: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+DEBUG:2024-12-19 18:17:11,874: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:17:11,968: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+DEBUG:2024-12-19 18:17:13,176: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:17:13,314: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+INFO:2024-12-19 18:17:14,445: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5008
+INFO:2024-12-19 18:17:14,445: [33mPress CTRL+C to quit[0m
+INFO:2024-12-19 18:17:14,446:  * Restarting with stat
+DEBUG:2024-12-19 18:17:15,573: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:17:15,682: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+DEBUG:2024-12-19 18:17:16,864: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:17:16,958: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+WARNING:2024-12-19 18:17:18,114:  * Debugger is active!
+INFO:2024-12-19 18:17:18,142:  * Debugger PIN: 348-606-090
+INFO:2024-12-19 18:17:21,166: 127.0.0.1 - - [19/Dec/2024 18:17:21] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:17:21,350: 127.0.0.1 - - [19/Dec/2024 18:17:21] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:17:22,403: 127.0.0.1 - - [19/Dec/2024 18:17:22] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:19:35,017:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/flask_route.py', reloading
+INFO:2024-12-19 18:19:35,180:  * Restarting with stat
+DEBUG:2024-12-19 18:19:36,632: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:19:36,730: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+DEBUG:2024-12-19 18:19:38,050: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:19:38,150: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87584
+WARNING:2024-12-19 18:19:39,470:  * Debugger is active!
+INFO:2024-12-19 18:19:39,664:  * Debugger PIN: 348-606-090
+INFO:2024-12-19 18:20:26,291:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/flask_route.py', reloading
+INFO:2024-12-19 18:20:26,460:  * Restarting with stat
+DEBUG:2024-12-19 18:20:27,925: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:20:28,020: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87464
+DEBUG:2024-12-19 18:20:29,488: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:20:29,604: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87464
+WARNING:2024-12-19 18:20:31,043:  * Debugger is active!
+INFO:2024-12-19 18:20:31,075:  * Debugger PIN: 348-606-090
+INFO:2024-12-19 18:20:31,094: 127.0.0.1 - - [19/Dec/2024 18:20:31] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:20:31,096: 127.0.0.1 - - [19/Dec/2024 18:20:31] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+DEBUG:2024-12-19 18:20:40,839: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:20:40,933: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87464
+DEBUG:2024-12-19 18:20:42,160: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:20:42,282: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87464
+INFO:2024-12-19 18:20:43,484: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5008
+INFO:2024-12-19 18:20:43,484: [33mPress CTRL+C to quit[0m
+INFO:2024-12-19 18:20:43,486:  * Restarting with stat
+DEBUG:2024-12-19 18:20:44,677: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:20:44,789: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87464
+DEBUG:2024-12-19 18:20:46,078: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:20:46,178: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87464
+WARNING:2024-12-19 18:20:47,315:  * Debugger is active!
+INFO:2024-12-19 18:20:47,342:  * Debugger PIN: 348-606-090
+INFO:2024-12-19 18:20:47,356: 127.0.0.1 - - [19/Dec/2024 18:20:47] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:20:47,358: 127.0.0.1 - - [19/Dec/2024 18:20:47] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:21:08,167: 127.0.0.1 - - [19/Dec/2024 18:21:08] "[33mGET /api/stops HTTP/1.1[0m" 404 -
+INFO:2024-12-19 18:21:17,780:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/flask_route.py', reloading
+INFO:2024-12-19 18:21:17,936:  * Restarting with stat
+DEBUG:2024-12-19 18:21:19,469: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:21:19,577: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87464
+DEBUG:2024-12-19 18:21:21,058: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:21:21,151: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87464
+WARNING:2024-12-19 18:21:22,583:  * Debugger is active!
+INFO:2024-12-19 18:21:22,612:  * Debugger PIN: 348-606-090
+INFO:2024-12-19 18:23:17,227:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/flask_route.py', reloading
+INFO:2024-12-19 18:23:17,391:  * Restarting with stat
+DEBUG:2024-12-19 18:23:18,853: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:23:18,952: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87386
+DEBUG:2024-12-19 18:23:20,473: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 18:23:20,578: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87386
+WARNING:2024-12-19 18:23:21,980:  * Debugger is active!
+INFO:2024-12-19 18:23:22,008:  * Debugger PIN: 348-606-090
+INFO:2024-12-19 18:28:48,401:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/services/app_factory.py', reloading
+INFO:2024-12-19 18:28:48,560:  * Restarting with stat
+DEBUG:2024-12-19 20:25:58,020: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 20:25:58,161: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87336
+ERROR:2024-12-19 20:25:59,777: Error: Directory migrations already exists and is not empty
+DEBUG:2024-12-19 20:26:28,871: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 20:26:28,976: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87336
+DEBUG:2024-12-19 20:26:53,220: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 20:26:53,315: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87336
+DEBUG:2024-12-19 20:30:37,836: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 20:30:37,938: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87211
+INFO:2024-12-19 20:30:39,173: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:2024-12-19 20:30:39,173: [33mPress CTRL+C to quit[0m
+DEBUG:2024-12-19 20:34:07,435: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 20:34:07,556: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87322
+ERROR:2024-12-19 20:34:08,756: Error: Directory migrations already exists and is not empty
+DEBUG:2024-12-19 20:34:21,658: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 20:34:21,754: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87322
+DEBUG:2024-12-19 20:35:35,820: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-19 20:35:35,915: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 87322
+DEBUG:2024-12-20 01:12:04,783: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-20 01:12:04,899: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 86749
+INFO:2024-12-20 01:12:51,479: Flask App startup
+INFO:2024-12-20 01:12:51,821: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.220:6543
+INFO:2024-12-20 01:12:51,821: [33mPress CTRL+C to quit[0m
+INFO:2024-12-20 01:12:51,822:  * Restarting with stat
+INFO:2024-12-20 01:12:52,829: Flask App startup
+WARNING:2024-12-20 01:12:52,854:  * Debugger is active!
+INFO:2024-12-20 01:12:52,881:  * Debugger PIN: 348-606-090
+INFO:2024-12-20 01:13:28,114: 127.0.0.1 - - [20/Dec/2024 01:13:28] "[33mGET /docs HTTP/1.1[0m" 404 -
+INFO:2024-12-20 01:13:28,147: 127.0.0.1 - - [20/Dec/2024 01:13:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2024-12-20 01:13:58,276: Flask App startup
+INFO:2024-12-20 01:13:58,316: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6543
+ * Running on http://192.168.1.220:6543
+INFO:2024-12-20 01:13:58,316: [33mPress CTRL+C to quit[0m
+INFO:2024-12-20 01:13:58,318:  * Restarting with stat
+INFO:2024-12-20 01:13:59,298: Flask App startup
+WARNING:2024-12-20 01:13:59,330:  * Debugger is active!
+INFO:2024-12-20 01:13:59,354:  * Debugger PIN: 348-606-090
+INFO:2024-12-20 01:14:03,385: 127.0.0.1 - - [20/Dec/2024 01:14:03] "[33mGET /docs HTTP/1.1[0m" 404 -
+INFO:2024-12-20 01:14:03,832: 127.0.0.1 - - [20/Dec/2024 01:14:03] "[33mGET /docs HTTP/1.1[0m" 404 -
+INFO:2024-12-20 01:14:04,026: 127.0.0.1 - - [20/Dec/2024 01:14:04] "[33mGET /docs HTTP/1.1[0m" 404 -
+INFO:2024-12-20 01:14:19,386: Flask App startup
+ERROR:2024-12-20 01:14:19,387: Error: Directory migrations already exists and is not empty
+INFO:2024-12-20 01:14:23,672: Flask App startup
+INFO:2024-12-20 01:14:23,675: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:2024-12-20 01:14:23,675: [33mPress CTRL+C to quit[0m
+INFO:2024-12-20 12:22:52,366: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6543
+INFO:2024-12-20 12:22:52,366: [33mPress CTRL+C to quit[0m
+INFO:2024-12-20 12:22:52,367:  * Restarting with stat
+WARNING:2024-12-20 12:22:53,363:  * Debugger is active!
+INFO:2024-12-20 12:22:53,388:  * Debugger PIN: 348-606-090
+INFO:2024-12-20 12:23:17,042: 127.0.0.1 - - [20/Dec/2024 12:23:17] "GET /docs HTTP/1.1" 200 -
+INFO:2024-12-20 12:23:17,253: 127.0.0.1 - - [20/Dec/2024 12:23:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2024-12-20 12:23:17,264: 127.0.0.1 - - [20/Dec/2024 12:23:17] "GET /openapi.json HTTP/1.1" 200 -
+INFO:2024-12-20 12:23:21,790: 127.0.0.1 - - [20/Dec/2024 12:23:21] "GET /api/stops HTTP/1.1" 200 -
+INFO:2024-12-20 12:24:12,755:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/flask_route.py', reloading
+INFO:2024-12-20 12:24:12,878:  * Restarting with stat
+WARNING:2024-12-20 12:24:14,148:  * Debugger is active!
+INFO:2024-12-20 12:24:14,179:  * Debugger PIN: 348-606-090
+INFO:2024-12-20 12:24:45,832:  * Detected change in '/Users/wilson/Desktop/project/MTAAlertDisplay/backend/database.py', reloading
+INFO:2024-12-20 12:24:45,962:  * Restarting with stat

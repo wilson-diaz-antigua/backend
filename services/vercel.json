@@ -1,0 +1,14 @@
+{
+	"builds": [
+		{
+			"src": "flask_run.py",
+			"use": "@vercel/python"
+		}
+	],
+	"routes": [
+		{
+			"src": "/(.*) ",
+			"dest": "flaskroute"
+		}
+	]
+}

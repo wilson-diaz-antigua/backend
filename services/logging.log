@@ -1,0 +1,6 @@
+DEBUG:2024-12-20 21:02:35,473: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-20 21:02:35,578: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 85560
+DEBUG:2024-12-20 21:10:31,756: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-20 21:10:31,847: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 85499
+DEBUG:2024-12-20 21:11:04,353: Starting new HTTPS connection (1): api-endpoint.mta.info:443
+DEBUG:2024-12-20 21:11:04,443: https://api-endpoint.mta.info:443 "GET /Dataservice/mtagtfsfeeds/camsys%2Fsubway-alerts.json HTTP/1.1" 200 85499
