@@ -9,7 +9,7 @@ RUN apt-get update && apt-get install -y curl \
 ENV PATH="/root/.cargo/bin:${PATH}"
 
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt --log /app/pip_install.log
 
 COPY . .
 EXPOSE 6543
