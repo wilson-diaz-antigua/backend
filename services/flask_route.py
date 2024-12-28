@@ -17,7 +17,7 @@ from flask import jsonify
 from flask.views import MethodView
 from flask_smorest import Blueprint
 
-from services.database import server
+from services.database import cache, server
 from services.models import Stop, StopSchema
 
 
@@ -46,6 +46,7 @@ def index():
     return jsonify({"message": "Hello, World!"})
 
 
+@cache.cached(timeout=60)
 @stops.route("/stops")
 class StopsCollection(MethodView):
 
