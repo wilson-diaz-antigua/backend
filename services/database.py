@@ -20,7 +20,12 @@ vercel = vals.get("VERCEL_URL")
 db = SQLAlchemy()
 ma = Marshmallow()
 server = Flask(__name__)
-CORS(server, resources={r"/*": {"origins": "https://www.willdiaz.me"}})
+CORS(
+    server,
+    resources={
+        r"/*": {"origins": ["https://www.willdiaz.me", "http://localhost:3000"]}
+    },
+)
 server.config["CACHE_TYPE"] = "SimpleCache"
 server.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 migrate = Migrate(server, db)
