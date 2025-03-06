@@ -28,6 +28,8 @@ class Alerts(db.Model):
     dateText = Column(JSON, nullable=True)
     parsedDate = Column(String, nullable=True)
     route = Column(String, nullable=True)
+    activePeriod = Column(JSON, nullable=True)  # Added activePeriod field
+
     stop_id = Column(Integer, ForeignKey("stop.id"), nullable=True)
     stop = relationship("Stop", back_populates="alerts")
 
@@ -37,7 +39,8 @@ class ListofAlerts(ma.SQLAlchemyAutoSchema):
     class Meta:
 
         model = Alerts
-        exclude = ("id", "stop_id", "created_at", "updated_at")
+
+        exclude = ("id", "stop_id", "created_at", "updated_at", "parsedDate")
         include_relationships = True
 
 

@@ -17,6 +17,7 @@ from flask import jsonify
 from flask.views import MethodView
 from flask_smorest import Blueprint
 
+from services.alertfeedStatic import process_alert_feed
 from services.database import cache, server
 from services.models import Stop, StopSchema
 
@@ -55,7 +56,7 @@ class StopsCollection(MethodView):
 
         stopSchema = StopSchema(many=True)
 
-        stopsQuery = Stop.query.all()
+        stopsQuery = process_alert_feed()
 
         stops = stopSchema.dump(stopsQuery, many=True)
 
